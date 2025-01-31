@@ -51,6 +51,7 @@ The model struggled more with some digits (e.g., '5') due to their variability i
 
 * Clone the repository
 
+```bash
 git clone https://github.com/yaminipravallika03/2x2-Panel-Project.git
 
 * Navigate to the project directory

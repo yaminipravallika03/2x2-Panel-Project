@@ -49,15 +49,15 @@ The model struggled more with some digits (e.g., '5') due to their variability i
 
 # How to Use
 
-# Clone the repository
+* Clone the repository
 
 git clone https://github.com/yaminipravallika03/2x2-Panel-Project.git
 
-# Navigate to the project directory
+* Navigate to the project directory
 cd 2x2-Panel-Project
 
 
-# Open Jupyter Notebook and run the code
+* Open Jupyter Notebook and run the code
 jupyter notebook "2x2 Panel.ipynb"
 
 # Future Improvements

@@ -49,13 +49,14 @@ The model struggled more with some digits (e.g., '5') due to their variability i
 
 # How to Use
 
-1. Clone the repository:
+# Clone the repository
+git clone https://github.com/yaminipravallika03/2x2-Panel-Project.git
 
-    git clone https://github.com/yaminipravallika03/2x2-Panel-Project.git
+# Navigate to the project directory
+cd 2x2-Panel-Project
 
-2. Open 2x2 Panel.ipynb in Jupyter Notebook or Google Colab.
-
-3. Run all cells to train and test the model.
+# Open Jupyter Notebook and run the code
+jupyter notebook "2x2 Panel.ipynb"
 
 # Future Improvements
 

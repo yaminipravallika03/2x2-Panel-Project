@@ -61,10 +61,4 @@ cd 2x2-Panel-Project
 * Open Jupyter Notebook and run the code
 jupyter notebook "2x2 Panel.ipynb"
 
-# Future Improvements
 
-Extend the model to larger datasets like MNIST.
-
-Improve accuracy for rotated digits by incorporating data augmentation techniques.
-
-Experiment with attention mechanisms to enhance localization accuracy.

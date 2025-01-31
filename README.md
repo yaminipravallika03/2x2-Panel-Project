@@ -25,11 +25,11 @@ We initially considered using the MNIST dataset but opted for a smaller, more ma
 
 3. Training Steps:
 
-    The model first learned to identify individual numbers.
+    - The model first learned to identify individual numbers.
 
-    It was then trained on non-rotated 2x2 panels.
+    - It was then trained on non-rotated 2x2 panels.
 
-    Finally, it was trained on rotated versions to simulate real-world CAPTCHA conditions.
+    - Finally, it was trained on rotated versions to simulate real-world CAPTCHA conditions.
 
 4. Testing & Evaluation: The model's performance was evaluated across different degrees of rotation (0, 10, 20 degrees).
 
